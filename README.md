@@ -1,4 +1,4 @@
-#C H A L L E N G E
+#CHALLENGE
 A plain of flowers could be attacked by a parasite, which infects the flowers and causes them to fade (lose their
 flowers). The Faded flowers are removed from the plain and new flowers are planted in their place. After a
 while, these flowers could potentially become infected by the parasite.
